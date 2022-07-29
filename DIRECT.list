@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,neu6.edu.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,speed.neu6.edu.cn
+DOMAIN-SUFFIX,yunroute.io
 DST-PORT,22
 DOMAIN-SUFFIX,local,DIRECT
 IP-CIDR,192.168.0.0/16,no-resolve
