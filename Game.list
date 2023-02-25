@@ -26,7 +26,12 @@ full:diablo3.nosdn.127.net @cn
 firesidegatherings.com
 playhearthstone.com
 full:hearthstone.nosdn.127.net @cn
-
+IP-CIDR,255.255.255.0/24,no-resolve
+IP-CIDR,24.105.29.0/24,no-resolve
+IP-CIDR,117.52.35.0/24,no-resolve
+IP-CIDR,137.221.106.0/24,no-resolve
+IP-CIDR,59.153.40.0/24,no-resolve
+IP-CIDR,158.115.207.0/24,no-resolve
 # Hero of the Storm
 heroesofthestorm.com
 full:hearthstone.nosdn.127.net @cn
@@ -48,6 +53,7 @@ playwarcraft3.com
 worldofwarcraft.com
 wowchina.com @cn
 full:wow.nosdn.127.net @cn
+
 
 full:blizzcon-a.akamaihd.net
 full:blz.nosdn.127.net @cn
