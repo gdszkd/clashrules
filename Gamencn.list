@@ -32,6 +32,8 @@ IP-CIDR,117.52.35.0/24,no-resolve
 IP-CIDR,137.221.106.0/24,no-resolve
 IP-CIDR,59.153.40.0/24,no-resolve
 IP-CIDR,158.115.207.0/24,no-resolve
+IP-CIDR,151.101.78.0/24,no-resolve
+IP-CIDR,34.117.122.0/24,no-resolve
 # Hero of the Storm
 heroesofthestorm.com
 full:hearthstone.nosdn.127.net @cn
